@@ -3,3 +3,18 @@
 # Only they can approve your pull requests!
  
 * @wyncode/CodeOwners
+
+# Todo App
+ 
+We are building a Todo App together!  At first we will use Rails, and later we will use a combination of Rails and React.
+ 
+### Ruby Version
+* 2.5 or greater
+ 
+### System dependencies
+* sqlite3, which should already be on your machine
+ 
+### Database creation
+* Not needed for as long as we are using sqlite3
+ 
+### Database initialization
